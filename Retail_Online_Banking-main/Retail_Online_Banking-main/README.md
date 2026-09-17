@@ -93,5 +93,5 @@ Project_BankApplicationForm/
 
 ### 🙋‍♂️ Author
 
-**Amit Kumar Sahu**
-Java Backend Developer | Passionate about building clean and secure APIs
+**Samriddhi Tripathi**
+Full stack devloper | Passionate about building clean and secure APIs
